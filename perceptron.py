@@ -1,9 +1,9 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Anthony Codina
+# FILENAME: perceptron.py
+# SPECIFICATION: Perform Single Layer and Multi Layer Perceptron
 # FOR: CS 4210- Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 2-3 Hours
 # -----------------------------------------------------------*/
 
 # IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
