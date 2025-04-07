@@ -16,7 +16,11 @@ import pandas as pd
 
 algorithms = ['Perceptron', 'MLPClassifier']
 lr=float(input('Enter Learning Rate: '))
-shuffle=bool(input('Enter Shuffle: '))
+shuffle=(input('Enter Shuffle (True/False): '))
+if shuffle=='True':
+    shuffle=True
+else:
+    shuffle=False
 Phi_accuracy = 0
 MLPhi_accuracy = 0
 
